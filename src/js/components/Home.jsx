@@ -24,7 +24,7 @@ const Home = () => {
 	}, [])
 	return (
 		<div className="container">
-			<h1>Lista</h1>
+			<h1>lista</h1>
 			<div className= "d-flex gap-2">
 				<input
 					type="text"
